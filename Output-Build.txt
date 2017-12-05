@@ -1,0 +1,5 @@
+﻿Restoring NuGet packages...
+To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
+1>------ Build started: Project: SaladilloWare, Configuration: Release Any CPU ------
+1>  SaladilloWare -> E:\App\SaladilloWare\SaladilloWare\SaladilloWare\bin\Release\SaladilloWare.dll
+2>------ Build started: Project: SaladilloWare.UWP, Configuration: Release x86 ------
